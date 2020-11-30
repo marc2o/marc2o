@@ -1,4 +1,4 @@
-### Hi there 👋
+Wonderer. Geek. Human(e) being.
 
 <!--
 **marc2o/marc2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
