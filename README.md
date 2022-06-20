@@ -1,7 +1,5 @@
 Wonderer. Geek. Human(e) being.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P04PMZP)
-
 <!--
 **marc2o/marc2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
